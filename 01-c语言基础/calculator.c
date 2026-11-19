@@ -13,11 +13,13 @@ int main(void)
 
         /* 读取三个部分：操作数 运算符 操作数 */
         if (scanf("%lf %c %lf", &a, &op, &b) != 3) {// 检查输入是否正确，如果输入了q或其他不匹配的内容，scanf返回值就会小于3，视为退出信号。
-            int ch;//
-            while ((ch = getchar()) != '\n' && ch != EOF);  //清空缓冲区 ch=getchar() 读取一个字符，直到遇到换行符!='\n'或文件结束符 EOF
-            printf("已退出，再见！\n");
-            break;// 退出循环
-        }
+           
+           int ch;//
+           while ((ch = getchar()) != '\n' && ch != EOF);  //清空缓冲区 ch=getchar() 读取一个字符，直到遇到换行符!='\n'或文件结束符 EOF
+             printf("已退出，再见！\n");
+             break;// 退出循环
+        
+    }
 
         switch (op) {// 根据运算符执行相应的计算op=operator运算符
             case '+':

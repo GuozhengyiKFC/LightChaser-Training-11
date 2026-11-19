@@ -15,6 +15,7 @@ int main(void)
     }
 
     arr = (int *)malloc(n * sizeof(int));// 动态分配内存空间用于存储 n 个整数
+    //malloc函数默认返回的是无类型指针，加上int*可以把这个内存标记为专门存放整数的。
     if (arr == NULL) {// 检查内存分配是否成功
         printf("内存申请失败。\n");
         return 1;
@@ -31,7 +32,7 @@ int main(void)
     printf("平均值 = %.2f\n", average);//   输出平均值，保留两位小数
 
     free(arr);// 释放动态分配的内存空间
-    arr = NULL;
+        arr = NULL;
 
     return 0;
 }
