@@ -1,1 +1,3 @@
 https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/pwm.mp4
+
+https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/oled.mpu6050.mp4

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/KEY.mp4
 
+=======
+https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/KEY.mp4
+
+>>>>>>> 2a363a997988d83956b662a5efd695e4825d0680
 https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/KEY.1.mp4
