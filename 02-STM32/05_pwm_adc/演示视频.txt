@@ -1,17 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/pwm.mp4
-
 https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/oled.mpu6050.mp4
-=======
-https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/pwm.mp4
->>>>>>> c1d12c9333ac7da65f09df88ed6dfd8924516973
-=======
-<<<<<<< HEAD
-https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/pwm.mp4
-
-https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/oled.mpu6050.mp4
-=======
-https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/pwm.mp4
->>>>>>> c1d12c9333ac7da65f09df88ed6dfd8924516973
->>>>>>> cd4a2619b20f9f80e18788401b05893ae1d434bb

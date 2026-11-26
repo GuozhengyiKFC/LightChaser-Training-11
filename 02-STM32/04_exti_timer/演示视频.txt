@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/interrupt.mp4
-
-=======
-https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/interrupt.mp4
-
->>>>>>> c1d12c9333ac7da65f09df88ed6dfd8924516973
 https://github.com/GuozhengyiKFC/LightChaser-Training-11/releases/download/stm32-MP4/tim.mp4
